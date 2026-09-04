@@ -1,5 +1,5 @@
-# Hello, I'm Jade
-Computer Science Student at Pacific University
+# Hello! I'm Jade Lopez
+Data Science Student at Pacific University
 
 
 ## Socials:
